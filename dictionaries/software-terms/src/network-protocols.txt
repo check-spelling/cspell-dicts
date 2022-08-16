@@ -7,12 +7,9 @@ ftp
 ibgp
 imap
 ipp
-isis
+lldp
 ntp
 ospf
-pop3
-rip
 snmp
 ssh
 vxlan
-lldp

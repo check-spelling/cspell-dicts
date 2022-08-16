@@ -1,15 +1,12 @@
 arubaos
 asaos
-eos
-ios
-ise
 iosxr
 isoxe
 junoos
 junos
 nxos
+openswitch
 routeros
 sros
 tmos
 vyos
-openswitch

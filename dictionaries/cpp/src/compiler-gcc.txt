@@ -1,5 +1,13 @@
-# https://gcc.gnu.org/onlinedocs/gcc/Common-Function-Attributes.html
+Attributes
+Common
+Function
+gcc
+GNUC
+GNUG
+html
+https
 ifunc
+MINOR
 noclone
 noinline
 noipa
@@ -7,11 +15,7 @@ nonnull
 noplt
 noreturn
 nothrow
-patchable
+onlinedocs
+PATCHLEVEL
 symver
 weakref
-
-__GNUC__
-__GNUC_MINOR__
-__GNUC_PATCHLEVEL__
-__GNUG__
